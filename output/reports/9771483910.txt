@@ -1,0 +1,17 @@
+📄 NulOs Investigation Report
+========================================
+Generated On  : 2025-07-06 10:27:09
+Phone Number  : +919771483910
+----------------------------------------
+📍 Region      : India
+📶 Carrier     : Airtel
+🌍 Country Code: +91
+📱 Local Number: 9771483910
+----------------------------------------
+👤 Name        : Sana Shaikh
+📧 Email       : sanashaikh61@gmail.com
+🏢 Company     : Amazon
+🔗 Source      : https://search-results.fake/sanashaikh
+========================================
+Tool          : NulOs v1.0 Beta
+Author        : Ankush (ishant1x404)
