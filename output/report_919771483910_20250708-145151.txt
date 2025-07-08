@@ -1,0 +1,47 @@
+NulOs Report for +919771483910
+==================================================
+
+📞 Phone Info:
+- region: India
+- carrier: Airtel
+- country_code: 91
+- national_number: 9771483910
+- valid: True
+
+🧠 Extracted Identity:
+- name: Mohit Rathi
+- email: mohitrathi37@gmail.com
+- company: Infosys
+- source: https://search-results.fake/mohitrathi
+
+🔍 Google Dork Results:
+
+[Dork] site:quikr.com intext:"{query}" (DuckDuckGo)
+Title   : Post free ads in Coimbatore , Advertise free online - Quikr India
+URL     : //duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.quikr.com%2Fpost%2Dclassifieds%2Dads%2Bcoimbatore%2Fselect%2Dcategory%2F&rut=e6bceaa899b35c36416175ad1bdd23d46b4aa734eeeaa92fd0158b642043a1dd
+Snippet : 
+
+[Dork] site:quikr.com intext:"{query}" (DuckDuckGo)
+Title   : Refurbished / Used Sofa Sets Furniture in Bangalore | Second Hand ...
+URL     : //duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.quikr.com%2Fhome%2Dlifestyle%2FSofa%2DSets%2BHome%2DOffice%2DFurniture%2BBangalore%2Bw218fa&rut=0f76f887674733321f66aea138a035ed639b5347f5a2304289115879b19a333d
+Snippet : 
+
+[Dork] site:quikr.com intext:"{query}" (DuckDuckGo)
+Title   : 331 Used Cars in Tamil Nadu | Second Hand Cars for sale | QuikrCars
+URL     : //duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.quikr.com%2Fcars%2Fused%2Bcars%2Btamil%2Dnadu%2Bw1146913&rut=293c37357a3b2e3fc61bfd33deb1667809e8ea542c0f52bb9b667706f7ead04e
+Snippet : 
+
+[Dork] site:sulekha.com intext:"{query}" (DuckDuckGo)
+Title   : Double Occupancy/Couples Wanted For Luxury Home, 1 Minute Walk From/To ...
+URL     : //duckduckgo.com/l/?uddg=https%3A%2F%2Findianroommates.sulekha.com%2Fdouble%2Doccupancy%2Dcouples%2Dwanted%2Dfor%2Dluxury%2Dhome%2D1%2Dminute%2Dwalk%2Dfrom%2Dto%2Djsq%2Dpath%2Dtrain%2Dstation%2Dto%2Dgo%2Dto%2Dnyc_jersey%2Dcity%2Dnj_1708698&rut=6dbe187930120b1a82a8384d640fc1dabd7045e41adc57d936c3cf4e90b399f5
+Snippet : 
+
+[Dork] site:sulekha.com intext:"{query}" (DuckDuckGo)
+Title   : Sulekha USA & CA Classifieds|Latest Free Online Classifieds Ad|Post ...
+URL     : //duckduckgo.com/l/?uddg=http%3A%2F%2Fus.classifieds.sulekha.com%2F&rut=46d2e298a9472e3dae93589cf56361e039da7c3f5290db94bb1c45cfb18ac333
+Snippet : 
+
+[Dork] site:sulekha.com intext:"{query}" (DuckDuckGo)
+Title   : Looking For A Townhouse Preferably Near George Mason University For ...
+URL     : //duckduckgo.com/l/?uddg=https%3A%2F%2Findianroommates.sulekha.com%2Flooking%2Dfor%2Da%2Dtownhouse%2Dpreferably%2Dnear%2Dgeorge%2Dmason%2Duniversity%2Dfor%2Dinternational%2Dstudents_rentals_fairfax%2Dva_1945405&rut=e52e54bddb6d419d9fb04cc42ae274e24f82470050645282f04b3086ddd73a25
+Snippet : 

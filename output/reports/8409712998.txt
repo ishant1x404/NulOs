@@ -1,16 +1,16 @@
 📄 NulOs Investigation Report
 ========================================
-Generated On  : 2025-07-07 21:54:28
-Phone Number  : +919771483910
+Generated On  : 2025-07-07 14:53:44
+Phone Number  : +9184097 12998
 ----------------------------------------
 📍 Region      : India
-📶 Carrier     : Airtel
+📶 Carrier     : Telewings
 🌍 Country Code: +91
-📱 Local Number: 9771483910
+📱 Local Number: 8409712998
 ----------------------------------------
 👤 Name        : Ravi Kumar
-📧 Email       : ravikumar54@gmail.com
-🏢 Company     : Amazon
+📧 Email       : ravikumar57@gmail.com
+🏢 Company     : Startups
 🔗 Source      : https://search-results.fake/ravikumar
 ========================================
 Tool          : NulOs v1.0 Beta

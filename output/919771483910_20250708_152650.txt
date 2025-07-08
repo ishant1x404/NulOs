@@ -1,0 +1,101 @@
+============================================================
+📞 Phone OSINT Report - NulOs v1.1
+Generated: 2025-07-08 15:26:50.343919
+============================================================
+
+📞 Phone Info:
+- region: India
+- carrier: Airtel
+- country_code: 91
+- national_number: 9771483910
+- valid: True
+- timezones: ['Asia/Calcutta']
+
+🧠 Extracted Identity:
+- name: Anjali Patel
+- email: anjalipatel63@gmail.com
+- company: HCL
+- source: https://search-results.fake/anjalipatel
+
+🔍 Google Dork Results:
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/post-ad/realestate&rut=e8cd1d2cc2bae23c7e9d9c5b4ff67df8bceea4be85226e869eb8b5e62ac6c063
+  ↪ Snippet: 03-Jul-2025 - Advertise a home for rent or Sell a property online. Post a property Ad on Commonfloor for free. Get instant responses over Phone, Email & SMS. Rent or Sell a property in Bangalore, Mumbai, Pune, Gurgaon, Chennai, Hyderabad, Kolkata, Delhi, Noida, etc.
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/post-classifieds-ads/select-category/&rut=75b7740a098afe19a2551ba147e9a8df0faf582b3d9a566c4c5026fe8e77ade6
+  ↪ Snippet: Post Free Ads - Classifieds on Quikr - No registration required. Post your Item and get buyers online
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/kolkata&rut=cf219af0c7cf45c8662b15c905fd2316d773ce9f7179c3405bb4f7009e3797de
+  ↪ Snippet: Find the latest classified ads for flats, jobs, cars, motorbikes, furniture, tools, personals and more for sale in Kolkata. Find buyers and sellers that suit your need. Advertise for free on Quikr.
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/cars/used+cars+tamil-nadu+w1146913&rut=293c37357a3b2e3fc61bfd33deb1667809e8ea542c0f52bb9b667706f7ead04e
+  ↪ Snippet: 4 July 2025: Check Latest Used Cars in Tamil Nadu (331 results). Find great deals on good condition second hand Cars for sale in Tamil Nadu with price, features, images and specifications at QuikrCars
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/electronics-appliances/second-hand-lcd-monitor+Computer-Peripherals+Bangalore+x18222211275f&rut=89dbe32a36574b95bf1b6eb7c47e2e1bd8fbf7b8f4269e6504ee630da95718c3
+  ↪ Snippet: Electronics & Appliances,Computer Peripherals For sale: Dell P2422H 24 inch monitor in gently used condition. This monitor is perfect for both work and entertainment, providing clear and vibrant visuals. It has been used for 1-2 years and is still in excellent working condition. The monitor features a Full HD resolution, making it ideal for tasks that require detailed graphics and sharp text ...
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/html/termsandconditions.php&rut=dcf20e4168f130f506eba45d3e2af0b5501a3157ab3b542deff464b609a5983f
+  ↪ Snippet: Use of www.quikr.com,either by registration or by any other means, is available only to persons, who are Citizens of the Republic of India, who are 18 yrs of age and above and persons who can enter into a legally binding contract, and or are not barred by any law for the time being in force. If you access Quikr, either by registration on the Site or by any other means, not as an individual but ...
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/home-lifestyle/Bicycle+Pune+w18311583f&rut=247b6fe1accd81c33193d72739c5d48d82f69c98f01c30632f8c9c3ab2245b95
+  ↪ Snippet: Buy Refurbished / Used Bicycles & accessories online at low price in Pune at QuikrBazaar. Explore different types of cycles such as hybrid, road, BMX, Cyclocross, Road Bike etc within your budget in QuikrBazaar online store.
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/electronics-appliances/second-hand-apple-laptop+Laptops-Computers+India+z147f&rut=36af4c4f7389e36d5f05dc2501a7b660c09b5ca10a957a56683fde995057b84f
+  ↪ Snippet: Electronics & Appliances,Laptops - Computers For sale: Apple M1 Pro Laptop in almost like new condition. This high-performance laptop is perfect for professionals and students alike. It features a sleek design with a screen size of 14 to 14.9 inches, making it portable and easy to carry. The laptop is equipped with more than 8GB of RAM, ensuring smooth multitasking and efficient performance ...
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/home-lifestyle/Sofa-Sets+Home-Office-Furniture+Bangalore+w218fa&rut=0f76f887674733321f66aea138a035ed639b5347f5a2304289115879b19a333d
+  ↪ Snippet: Home - Office Furniture Sofa Sets - Refurbished, Unboxed, Used & New Shop for refurbished, unboxed, used or new office and home furnitures online at Quikr. Shop from wide collection of Sofas, Dining Table, Beds, Recliners, Wardrobes and more.
+
+[Dork] site:quikr.com intext:"+919771483910"
+  ↪ URL    : https://www.quikr.com/electronics-appliances/Monitor+Computer-Peripherals+Chennai+w18222211278fd&rut=6c8cb958dd0423a14cdfe3601e19d2f2a6c524a9a700187aa78126a149fcf1f1
+  ↪ Snippet: Computer Peripherals Monitor - Refurbished, Unboxed, Used & New Shop for all types of computer peripherals such as routers, CPU, graphics card, mother board, printers, monitors and more.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/double-occupancy-couples-wanted-for-luxury-home-1-minute-walk-from-to-jsq-path-train-station-to-go-to-nyc_jersey-city-nj_1708698&rut=6dbe187930120b1a82a8384d640fc1dabd7045e41adc57d936c3cf4e90b399f5
+  ↪ Snippet: *NO FEE MONTH-TO-MONTH LEASE/RENT: Housemates/Roommates wanted immediately for newly fully renovated, fully furnished Luxury Quadruplex Home:* with 4 floors, 6 , offered Shared are available for Male / Female in Jersey City NJ 07306 on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : http://us.classifieds.sulekha.com/&rut=46d2e298a9472e3dae93589cf56361e039da7c3f5290db94bb1c45cfb18ac333
+  ↪ Snippet: Sulekha Classifieds: Post free classified ads online, Buy and Sell, find the latest list of used cars, I.T Jobs, resources on Immigration, Real Estate, Travel, Jobs, Tuitions & Classes, and other services offered for Indians living in US and Canada here.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/looking-for-a-townhouse-preferably-near-george-mason-university-for-international-students_rentals_fairfax-va_1945405&rut=e52e54bddb6d419d9fb04cc42ae274e24f82470050645282f04b3086ddd73a25
+  ↪ Snippet: I am an international student and I am looking for a townhouse in Virginia preferably near George Mason University. I am a full-time student which is why I do n, wanted 3 BHK are available in Fairfax, VA 22030 on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/looking-for-single-furnished-room_mc-lean-va_1694125&rut=471a2199952e488b0074f2fbe23b09052376563c5fb01b26d2c497ceec2ffa23
+  ↪ Snippet: I am looking for single room on shared accommodation on month on month basis, please let me know if you have places which you would like to share., wanted Single are available for Male / Female in Mc Lean VA 22102 on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/available-female-paying-guest-accommodation_frisco-tx_1421573&rut=22757a202a802ea450f8a5c4370caae207d6b4bfaafa60446fc167aca332c33d
+  ↪ Snippet: Hi,we are a family with 2 kids (12 and 8 years old) from Hyderabad looking for one Female paying guest. It's a furnished room with a queen bed. Food included. G, offered paying guest are available for Female in Frisco TX 75035 on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/rentals_apartment_in_new-york-metro-area&rut=1f2dd66412c788605556ba5dbe2fcfb6d558dbddcaede76fc0b900434e3f02ff
+  ↪ Snippet: Find your perfect apartments in the New York, Browse verified listings for luxury, pet-friendly, loft, and furnished apartments. View photos, prices, and amenities to find the best accommodation for your needs on Sulekha Rentals today.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/single-room-available-in-plano-tx-for-750-plus-utilities-per-month_plano-tx_1706902&rut=697bc55528e8575a803dc6817fa46ee6a9dac0d3f2217224e30631da8b25d6af
+  ↪ Snippet: I am offering a Single Room in Plano, TX for $750.The room is ideal for any and comes with a Shared bathroom. The location is close to public transport and amen, offered Single are available for Male / Female in Plano TX 75024 on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/monroe-township-nj&rut=1e11519c5bfdf31d86f871e87bc61b2e304105dd18a846aa181df6acdc50b9ea
+  ↪ Snippet: Search available rooms for rent in Monroe Township, NJ, Explore listings for Indian roommates, including affordable, pet-friendly, private, furnished, and unfurnished options near you. We help Indian renters find single or shared accommodations, organized by male/female preferences, all listed on Sulekha.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/single_roommates-in-and-near-peachtree-hills-atlanta-ga&rut=9d746a56b159dd7615de2d7e295085eb94f80d2fceec765ec378f523e3d33899
+  ↪ Snippet: Explore single room occupancy and SRO housing for rent in Peachtree Hills, Atlanta, GA, Find individual rooms, furnished single rooms, and single room occupancy options in this desirable neighborhood. Perfect for those seeking affordable and comfortable living arrangements.
+
+[Dork] site:sulekha.com intext:"+919771483910"
+  ↪ URL    : https://indianroommates.sulekha.com/alpharetta-ga&rut=25bc05e230e23afd70fe1276383e918a750365563803ec4722343eae733bbf1d
+  ↪ Snippet: Search available rooms for rent in Alpharetta, GA, Explore listings for Indian roommates, including affordable, pet-friendly, private, furnished, and unfurnished options near you. We help Indian renters find single or shared accommodations, organized by male/female preferences, all listed on Sulekha.
+

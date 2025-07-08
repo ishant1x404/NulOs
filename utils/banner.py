@@ -1,11 +1,23 @@
 from colorama import Fore, Style
+import time
 
 def show_banner():
-    print(Fore.CYAN + Style.BRIGHT + """
-   _   _       _     ____        _     
-  | \ | | ___ | |_  / ___|  ___ | |__  
-  |  \| |/ _ \| __| \___ \ / _ \| '_ \ 
-  | |\  | (_) | |_   ___) | (_) | | | |
-  |_| \_|\___/ \__| |____/ \___/|_| |_|
-                                       
-  """ + Fore.GREEN + Style.BRIGHT + "       Made by Ankush | OSINT Recon Tool\n" + Style.RESET_ALL)
+    banner_text = [
+        Fore.MAGENTA + r" _   _       _       ____              ",
+        Fore.MAGENTA + r"| \ | |_   _| |__   / ___|  ___  _ __  ",
+        Fore.MAGENTA + r"|  \| | | | | '_ \  \___ \ / _ \| '_ \ ",
+        Fore.MAGENTA + r"| |\  | |_| | |_) |  ___) | (_) | | | |",
+        Fore.MAGENTA + r"|_| \_|\__,_|_.__/  |____/ \___/|_| |_|",
+        Fore.CYAN    + r"         [ NulOs v1.1 | OSINT Toolkit ]" + Style.RESET_ALL
+    ]
+
+    print("\n")
+    for line in banner_text:
+        print(line)
+        time.sleep(0.05)  # ✨ Add a quick animation feel
+
+    print(Fore.YELLOW + "-" * 50)
+    print("📞  Investigate phone numbers like a pro.")
+    print("🧠  Extract identity, emails, leaks, dorks.")
+    print("🔍  Fast. Silent. Local. Open Source.")
+    print("-" * 50 + Style.RESET_ALL)

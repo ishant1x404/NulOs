@@ -1,31 +1,35 @@
 import phonenumbers
-from phonenumbers import geocoder, carrier
+from phonenumbers import geocoder, carrier, timezone
 
 def lookup_number(number):
+    """
+    Parses phone number and extracts region, carrier, timezone, etc.
+    Returns structured dictionary even if data is missing.
+    """
     try:
-        # Parse the number (e.g., "+919876543210")
-        parsed_number = phonenumbers.parse(number)
+        parsed = phonenumbers.parse(number, None)
 
-        # Get country/location (like "Madhya Pradesh")
-        region = geocoder.description_for_number(parsed_number, "en")
+        if not phonenumbers.is_valid_number(parsed):
+            return {"valid": False, "error": "Invalid phone number."}
 
-        # Get carrier (like "Airtel")
-        service_provider = carrier.name_for_number(parsed_number, "en")
-
-        # Get country code (like "IN")
-        country_code = parsed_number.country_code
-        national_number = parsed_number.national_number
+        # Safely extract info with defaults
+        region = geocoder.description_for_number(parsed, "en") or "Unknown"
+        sim_carrier = carrier.name_for_number(parsed, "en") or "Unknown"
+        timezones = timezone.time_zones_for_number(parsed)
+        country_code = parsed.country_code
+        national_number = parsed.national_number
 
         return {
+            "valid": True,
             "region": region,
-            "carrier": service_provider,
+            "carrier": sim_carrier,
+            "timezones": list(timezones),
             "country_code": country_code,
-            "national_number": national_number,
-            "valid": phonenumbers.is_valid_number(parsed_number)
+            "national_number": national_number
         }
 
     except Exception as e:
         return {
-            "error": str(e),
-            "valid": False
+            "valid": False,
+            "error": str(e)
         }

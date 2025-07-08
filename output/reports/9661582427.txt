@@ -1,17 +1,17 @@
 📄 NulOs Investigation Report
 ========================================
-Generated On  : 2025-07-07 21:54:28
-Phone Number  : +919771483910
+Generated On  : 2025-07-06 17:49:14
+Phone Number  : +919661582427
 ----------------------------------------
 📍 Region      : India
 📶 Carrier     : Airtel
 🌍 Country Code: +91
-📱 Local Number: 9771483910
+📱 Local Number: 9661582427
 ----------------------------------------
-👤 Name        : Ravi Kumar
-📧 Email       : ravikumar54@gmail.com
-🏢 Company     : Amazon
-🔗 Source      : https://search-results.fake/ravikumar
+👤 Name        : Anjali Patel
+📧 Email       : anjalipatel41@gmail.com
+🏢 Company     : Startups
+🔗 Source      : https://search-results.fake/anjalipatel
 ========================================
 Tool          : NulOs v1.0 Beta
 Author        : Ankush (ishant1x404)
