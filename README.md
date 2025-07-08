@@ -1,6 +1,6 @@
 # 📞 NulOs v1.1 – Phone Number OSINT Toolkit
 
-NulOs (Number Lookup OSINT) is a fast, modular, and offline-friendly toolkit to investigate phone numbers using open-source intelligence (OSINT) techniques.
+NulOs (Number Lookup OSINT) is a fast, modular, and user-friendly toolkit to investigate phone numbers using open-source intelligence (OSINT) techniques.
 
 > ⚠️ For educational and ethical use only.
 
